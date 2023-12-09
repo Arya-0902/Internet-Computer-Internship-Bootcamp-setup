@@ -31,6 +31,10 @@ WSL Installation 2️⃣
 ```bash
 wsl --install
 ```
+![image](https://github.com/Arya-0902/Internet-Computer-Internship-Bootcamp-setup/assets/99527147/5191abab-8b3b-44b9-a490-b72bd17be5f4)
+
+# Note: After Installation RESTART your computer.
+
 Installing NVM 3️⃣
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
