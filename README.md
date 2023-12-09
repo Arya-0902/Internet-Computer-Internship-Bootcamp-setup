@@ -20,6 +20,8 @@ dfx --version
 
 # <u>If you are a <b><i>Windows</i></b> user, you can access the ICP environment setup we have prepared for you below. 👇</u>
 
+Entire Tutorial is taken from : https://www.youtube.com/watch?v=ywE2PBNm9Jo
+
 To download Powershell 1️⃣
 
 PowerShell-7.3.9-win-x64.msi ( https://github.com/PowerShell/PowerShell/releases/download/v7.3.9/PowerShell-7.3.9-win-x64.msi )
@@ -61,3 +63,6 @@ sudo apt-get install -y gcc-multilib
 ```bash
 rustup self uninstall & curl --proto '=https' --tlsv1.2 https://sh.rustup.rs/ -sSf | sh
 ```
+
+
+credits: RiseIn Team
